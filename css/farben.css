@@ -1,0 +1,38 @@
+body {
+  background-color: #FFEEAD;
+}
+
+#Titel {
+  margin-top: 200px;
+  color: black;
+}
+
+div {
+  width: 2000px;
+  height: 50px;
+}
+
+.titelbild {
+  width: 500px;
+  height: 480px;
+  border: black 3px solid;
+  color: white;
+  padding-top: 200px;
+  padding-left: 400px
+}
+
+.titeltext {
+  margin-left: 950px;
+  margin-top: 250px;
+  color: white;
+}
+
+.year {
+  width: 20%;
+  height: 300px;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-right: 10px;
+  background-color: #96CEB4;
+  display: inline-block;
+}
